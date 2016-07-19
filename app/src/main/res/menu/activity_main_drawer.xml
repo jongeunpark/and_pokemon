@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<item android:title="@string/my_menu">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_favorite"-->
+                <!--android:icon="@drawable/ic_rate_review_black_48dp"-->
+                <!--android:title="@string/favorite" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_recent"-->
+                <!--android:icon="@drawable/ic_mail_outline_black_48dp"-->
+                <!--android:title="@string/recent" />-->
+
+        <!--</menu>-->
+    <!--</item>-->
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_review"
+                android:icon="@drawable/ic_rate_review_black_48dp"
+                android:title="@string/comment" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_mail_outline_black_48dp"
+                android:title="@string/email" />
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_share_black_48dp"
+                android:title="@string/share" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,77 @@
+<resources>
+    <string-array name="sort_type">
+        <item>기본순</item>
+        <item>이름순</item>
+        <item>체중 높은 순</item>
+        <item>체중 낮은 순</item>
+        <item>키큰 순</item>
+        <item>키작은 순</item>
+    </string-array>
+
+    <string name="app_name">포켓몬 도감</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="share">공유하기</string>
+    <string name="comment">리뷰남기기</string>
+    <string name="email">문의하기</string>
+    <string name="filter">필터</string>
+    <string name="sort">정렬(%1$s)</string>
+    <string name="powered">Powered by JP</string>
+    <string name="etc_menu">기타</string>
+    <string name="recent">최근 본 포켓몬</string>
+    <string name="favorite">즐겨찾는 포켓몬</string>
+    <string name="my_menu">내 도감</string>
+    <string name="fillter_sellect">타입 전체 선택</string>
+    <string name="fillter_unsellect">타입 전체 선택 취소</string>
+    <string name="type_title_type">포켓몬 타입 선택</string>
+    <string name="type_grass">풀</string>
+    <string name="type_poison">독</string>
+    <string name="type_fire">불꽃</string>
+    <string name="type_flying">비행</string>
+    <string name="type_water">물</string>
+    <string name="type_bug">벌레</string>
+    <string name="type_normal">노말</string>
+    <string name="type_electric">전기</string>
+    <string name="type_ground">땅</string>
+    <string name="type_fairy">페어리</string>
+    <string name="type_fighting">격투</string>
+    <string name="type_psychic">에스퍼</string>
+    <string name="type_rock">바위</string>
+    <string name="type_steel">강철</string>
+    <string name="type_ice">얼음</string>
+    <string name="type_ghost">고스트</string>
+    <string name="type_dragon">드래곤</string>
+    <string name="type_drak">악</string>
+    <string name="type_title_gen">포켓몬 세대 선택</string>
+    <string name="type_1">1세대</string>
+    <string name="type_2">2세대</string>
+    <string name="type_3">3세대</string>
+    <string name="type_4">4세대</string>
+    <string name="type_5">5세대</string>
+    <string name="type_6">6세대</string>
+
+    <string name="detail_height">키</string>
+    <string name="detail_weight">체중</string>
+    <string name="detail_type">타입</string>
+
+    <string name="detail_hp">HP</string>
+    <string name="detail_attack">공격력</string>
+    <string name="detail_defend">방어력</string>
+    <string name="detail_sattack">특수 공격력</string>
+    <string name="detail_sdefend">특수 방어력</string>
+    <string name="detail_speed">속도</string>
+
+    <string name="detail_skill">특성</string>
+    <string name="detail_hiddenskill">숨겨진 특성</string>
+    <string name="detail_location">처음 발견된 지역</string>
+    <string name="detail_number">도감번호</string>
+    <string name="detail_location1">관동 지방</string>
+    <string name="detail_location2">성도 지방</string>
+    <string name="detail_location3">호연 지방</string>
+    <string name="detail_location4">신오 지방</string>
+    <string name="detail_location5">하나 지방</string>
+    <string name="detail_location6">칼로스 지방</string>
+    <string name="title_activity_fillter">필터 설정</string>
+
+
+</resources>
